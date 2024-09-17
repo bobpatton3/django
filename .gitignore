@@ -1,0 +1,7 @@
+/venv/
+.idea
+.DS_Store
+bonuses
+mysite/db.sqlite3
+mysite/polls/static/polls/images/background.png
+**/__pycache__/
